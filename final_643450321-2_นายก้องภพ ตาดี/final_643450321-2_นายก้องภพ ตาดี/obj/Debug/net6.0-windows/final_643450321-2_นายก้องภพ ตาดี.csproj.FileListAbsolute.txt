@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321_2_นายก้องภพ_ตาดี.Form1.resources
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\bin\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.exe
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\bin\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.deps.json
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\bin\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\bin\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.dll
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\bin\Debug\net6.0-windows\ref\final_643450321-2_นายก้องภพ ตาดี.dll
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\bin\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.pdb
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.dll
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\ref\final_643450321-2_นายก้องภพ ตาดี.dll
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.pdb
+C:\Users\PC\Documents\GitHub\IncomeandExpenses\final_643450321-2_นายก้องภพ ตาดี\final_643450321-2_นายก้องภพ ตาดี\obj\Debug\net6.0-windows\final_643450321-2_นายก้องภพ ตาดี.genruntimeconfig.cache

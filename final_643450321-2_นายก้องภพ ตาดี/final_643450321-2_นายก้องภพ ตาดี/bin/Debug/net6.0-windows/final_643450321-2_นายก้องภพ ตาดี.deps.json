@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "final_643450321-2_นายก้องภพ ตาดี/1.0.0": {
+        "runtime": {
+          "final_643450321-2_นายก้องภพ ตาดี.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "final_643450321-2_นายก้องภพ ตาดี/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
